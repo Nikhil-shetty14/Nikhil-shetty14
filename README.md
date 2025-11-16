@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
 
-<h1 align="center">Hey Folks! 👋 I'm Karthik S Kashyap</h1>
+<h1 align="center">Hey Folks! 👋 I'm NIKHIL SHETTY</h1>
 <h3 align="center">🚀 Passionate about building impactful web & apps and contributing to the open-source community. Currently exploring advanced concepts in Mobile & Web Development, and building real-world projects with modern technologies!</h3>
 
 
@@ -17,9 +17,9 @@
 
 ## 👨‍💻 About Me
 
-- **Name**: Karthik S Kashyap  
-- **Location**: Mysuru, Karnataka  
-- **University**: Alva's Institute of Engineering & Technology (VTU)  
+- **Name**: NIKHIL V S
+- **Location**: Hassan, Karnataka  
+- **University**: Rajeev Institute of Technology (VTU)  
 - **Interests**: "love birdwatching and teaching tech to young minds!" 
 - **Currently Learning**: App Development, Web Development
 
