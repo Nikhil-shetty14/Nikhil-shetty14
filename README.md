@@ -9,7 +9,7 @@
 
 </p>
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=karthik1772&label=Profile%20views&color=orange&style=flat" alt="profile views" />
+  <img src="2&label=Profile%20views&color=orange&style=flat" alt="profile views" />
 </p>
 <p align="center">
   <img src="https://holopin.me/karthik1772" alt="holopin badges" />
@@ -34,10 +34,10 @@
 
 | Name   | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Doozy](https://github.com/Karthik1772/Doozy)** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
-| **[XoXo](https://github.com/Karthik1772/XoXo.git)** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
-| **[Xpenso](https://github.com/Karthik1772/Xpenso.git)** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
-| **[Formify](https://github.com/Karthik1772/Formify.git)** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
+| **[Doozy]()** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
+| **[XoXo]()** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
+| **[Xpenso]()** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
+| **[Formify]()** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
 
 ## 🧠 Tech & Tools
 
