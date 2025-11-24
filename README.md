@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
 
-<h1 align="center">Hey Folks! 👋 I'm NIKHIL SHETTY</h1>
+<h1 align="center">Hello 👋 I'm NIKHIL SHETTY</h1>
 <h3 align="center">🚀 Passionate about building impactful web & apps and contributing to the open-source community. Currently exploring advanced concepts in Mobile & Web Development, and building real-world projects with modern technologies!</h3>
 
 
@@ -25,19 +25,13 @@
 
 ## 🏆 Highlights
 
-- 🥉 3rd Place – National Mathematics Day, 2022  
-- 🏆 1st Place – Technova (CSE Dept), 2023  
-- 🥇 1st Place – Fusion Techathon 3.0 – Open Innovation, 2024  
-- 💼 Internship – Research Intern @ IIIT Dharward 
+- 🥉 3rd Place – 2 Days National level MONAIthon Hackathon, 2025  
+- 🏆 1st Place – Syntaxia - Debbugging Competation (AIML Dept), 2025  
+- 🥇 2nd Place – Python Game Development – (AIML Dept), 2025
+- 🥉 3rd Place – Web Designing Hackathon,(BGSIT B G Nagar) 2025  
+- 💼 Internship – MERN Stack + Mobile Intern @ Automatech 
 
-## 📱 Featured Projects
 
-| Name   | Description | Tech Stack |
-|--------|-------------|------------|
-| **[Doozy]()** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
-| **[XoXo]()** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
-| **[Xpenso]()** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
-| **[Formify]()** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
 
 ## 🧠 Tech & Tools
 
@@ -59,18 +53,18 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/karthik__177"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="50"/></a>
-  <a href="https://www.linkedin.com/in/karthik-s-kashyap/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
-  <a href="https://www.instagram.com/nomadic_brahmana_/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
-  <a href="https://karthik-s-kashyap.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/twitter--v1.png" width="50"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
+  <a href=""><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik1772&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik1772&layout=compact&theme=react" />
+  <img src="&theme=react" />
+  <img src="&theme=react" />
 </p>
 
 
-<p align="left"><strong>Thanks for stopping by! Let's connect and build something awesome! 🚀</strong></p>
+<p align="left"><strong>Just Fixing the Future 🚀</strong></p>
