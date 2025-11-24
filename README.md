@@ -7,13 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Flutter+Apps...;Building+Next.js+Web+Apps...;Loving+Open+Source...;Learning+Full-Stack...;Solving+Real+Problems!" alt="Typing SVG" />
 
-</p>
-<p align="right">
-  <img src="2&label=Profile%20views&color=orange&style=flat" alt="profile views" />
-</p>
-<p align="center">
-  <img src="https://holopin.me/karthik1772" alt="holopin badges" />
-</p>
 
 ## 👨‍💻 About Me
 
