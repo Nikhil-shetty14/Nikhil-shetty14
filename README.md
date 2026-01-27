@@ -29,7 +29,7 @@
 ## 🧠 Tech & Tools
 
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>
