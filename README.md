@@ -47,9 +47,9 @@
 
 <p align="left">
   <a href=""><img src="https://img.icons8.com/color/48/twitter--v1.png" width="50"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
-  <a href=""><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
+  <a href="https://www.linkedin.com/in/nikhil-s-shetty0414/"><img src="https://img.icons8.com/color/48/linkedin.png" width="50"/></a>
+  <a href="https://www.instagram.com/mr_nikhilsshetty62/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50"/></a>
+  <a href="https://nikhil-s-portfolio1404.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
 </p>
 
 ## 📊 GitHub Stats
