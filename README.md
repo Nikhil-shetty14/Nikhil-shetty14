@@ -29,18 +29,12 @@
 ## 🧠 Tech & Tools
 
 
+
+  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-  <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" width="50" alt="Canva"/>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript,react,nextjs,tailwind,java,git,github,unity,vscode,figma" />
 </p>
+
 
 
 ## 🌐 Connect with Me
