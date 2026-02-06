@@ -46,12 +46,6 @@
   <a href="https://nikhil-s-portfolio1404.vercel.app/"><img src="https://img.icons8.com/color/48/domain.png" width="50"/></a>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="&theme=react" />
-  <img src="&theme=react" />
-</p>
 
 
 <p align="left"><strong>Just Fixing the Future 🚀</strong></p>
