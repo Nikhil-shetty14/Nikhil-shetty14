@@ -27,12 +27,6 @@
 </tr>
 </table>
 
-> **Note on the hologram/particle-aura effect:** GitHub sanitizes README HTML and strips `<style>`/`<script>`/CSS animations, so a live "particles attracted to your face" effect can't run natively in the README itself. Two ways to get the *real* effect and still have it show up here:
-> 1. Host it as a **GitHub Pages site** (full CSS/JS/Three.js allowed) and embed a screen-recording GIF of it here, OR
-> 2. Use a generated animated GIF/Lottie (e.g. via a tool like `particles.js` + screen capture, or a service like `readme-jokes`/`Vercel OG`) and drop the GIF URL into the `<img>` tag above.
->
-> Everything below is built entirely from things that **do render live on GitHub**: animated SVG banners, typing SVG, dynamic stat cards, badge shields, and the contribution snake — all genuinely animated, all genuinely working.
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F0FF&style=for-the-badge)
@@ -52,15 +46,15 @@
 <td width="50%" valign="top">
 
 ```yaml
-name: "Nikhil Shetty"
-university: "🎓 Your University Name"
-location: "📍 Your City, India"
+name: "Nikhil "
+university: "🎓 RIT , HASSAN (VTU)"
+location: "📍 HASSAN , KARNATAKA"
 internship: "💼 MERN Stack Intern"
 interests:
   - "🤖 Artificial Intelligence"
   - "🌐 Full Stack Web Development"
   - "📱 Mobile App Development"
-  - "🎮 Game Development"
+  - "
 current_focus: "🔭 Building AI-powered products & winning hackathons"
 fun_fact: "⚡ Just Fixing the Future 🚀"
 ```
@@ -74,12 +68,12 @@ fun_fact: "⚡ Just Fixing the Future 🚀"
 
 | | |
 |---|---|
-| 🎓 **University** | Your University Name |
-| 📍 **Location** | Your City, India |
+| 🎓 **College** | RIT,HASSAN |
+| 📍 **Location** | Hassan |
 | 💼 **Internship** | MERN Stack Development |
 | 🤖 **Focus Area** | AI + Full Stack Engineering |
-| 🏆 **Achievements** | 5+ Hackathon Wins |
-| 💬 **Ask Me About** | React, Node.js, AI/ML, Flutter |
+| 🏆 **Achievements** | 3+ Hackathon Wins |
+| 💬 **Ask Me About** | Full Stack, AI/ML,React-Native |
 | ⚡ **Fun Fact** | I debug in my sleep |
 
 </div>
