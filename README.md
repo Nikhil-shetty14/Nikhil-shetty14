@@ -17,7 +17,7 @@
 <td align="center" width="100%">
 
 <a href="#">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/profile-hologram.png" width="180" height="180" style="border-radius:50%;" alt="Nikhil Shetty"/>
+  <img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/profile-hologram.png" width="180" height="180" style="border-radius:50%;" alt="Nikhil Shetty"/>
 </a>
 
 <br/>
@@ -221,39 +221,6 @@ fun_fact: "⚡ Just Fixing the Future 🚀"
 
 <br>
 
-<details>
-<summary>📄 <b>Snake animation GitHub Action (click to expand)</b></summary>
-
-```yaml
-name: generate contribution snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:B084F9&height=3&width=100%" width="100%"/>
 
@@ -266,7 +233,7 @@ jobs:
 <!-- ============= PROJECT 1 ============= -->
 <tr>
 <td width="35%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/safeher-ai.png" width="100%" style="border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/safeher-ai.png" width="100%" style="border-radius:12px;"/>
 </td>
 <td width="65%" valign="top">
 
@@ -314,7 +281,7 @@ An AI-driven video generation and editing platform that automates content creati
 <!-- ============= PROJECT 3 ============= -->
 <tr>
 <td width="35%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/skybrisk.png" width="100%" style="border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/skybrisk.png" width="100%" style="border-radius:12px;"/>
 </td>
 <td width="65%" valign="top">
 
@@ -338,7 +305,7 @@ A sleek, real-time weather forecasting app with dynamic UI themes, geo-based ale
 <!-- ============= PROJECT 4 ============= -->
 <tr>
 <td width="35%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/portfolio.png" width="100%" style="border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/portfolio.png" width="100%" style="border-radius:12px;"/>
 </td>
 <td width="65%" valign="top">
 
