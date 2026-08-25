@@ -16,9 +16,19 @@
 <tr>
 <td align="center" width="100%">
 
+<div align="center">
+
 <a href="#">
-  <img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/profile-hologram.png" width="180" height="180" style="border-radius:50%;" alt="Nikhil Shetty"/>
+  <img
+    src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/profile-hologram.png"
+    width="180"
+    height="180"
+    style="border-radius:50%;"
+    alt="Nikhil Shetty"
+  />
 </a>
+
+</div>
 
 <br/>
 
