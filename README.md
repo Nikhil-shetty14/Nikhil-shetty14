@@ -267,7 +267,7 @@ An AI-powered personal safety application that uses real-time threat detection, 
 <!-- ============= PROJECT 2 ============= -->
 <tr>
 <td width="35%">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/video-forge-ai.png" width="100%" style="border-radius:12px;"/>
+<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/video-forge-ai.png" width="100%" style="border-radius:12px;"/>
 </td>
 <td width="65%" valign="top">
 
@@ -340,9 +340,11 @@ A cyberpunk-themed personal portfolio website showcasing projects, skills, and a
 
 ## <img src="https://media.giphy.com/media/hWWXKuiO7QpqI/giphy.gif" width="35"/> Coding Activity
 
+## 💻 Coding Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nikhil-shetty14&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&layout=compact" width="60%" alt="WakaTime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-shetty14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B084F9&text_color=C9D1D9" width="60%" alt="GitHub Coding Activity" />
 
 </div>
 
