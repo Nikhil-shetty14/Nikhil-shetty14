@@ -288,31 +288,8 @@ An AI-driven video generation and editing platform that automates content creati
 </td>
 </tr>
 
+
 <!-- ============= PROJECT 3 ============= -->
-<tr>
-<td width="35%">
-<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/skybrisk.png" width="100%" style="border-radius:12px;"/>
-</td>
-<td width="65%" valign="top">
-
-### ☁️ SkyBrisk
-
-A sleek, real-time weather forecasting app with dynamic UI themes, geo-based alerts, and clean data visualizations.
-
-**Tech Stack**
-
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=00F0FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![API](https://img.shields.io/badge/-REST_API-0D1117?style=flat-square&logo=fastapi&logoColor=B084F9)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat-square&logo=css3&logoColor=2965F1)
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=for-the-badge&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-B084F9?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-
-<!-- ============= PROJECT 4 ============= -->
 <tr>
 <td width="35%">
 <img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/main/assets/portfolio.png" width="100%" style="border-radius:12px;"/>
@@ -365,7 +342,7 @@ A cyberpunk-themed personal portfolio website showcasing projects, skills, and a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&layout=compact" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nikhil-shetty14&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&layout=compact" width="60%" alt="WakaTime Stats"/>
 
 </div>
 
