@@ -169,43 +169,57 @@ fun_fact: "⚡ Just Fixing the Future 🚀"
 
 <br/>
 
-### 🏆 GitHub Trophy Case
+<!-- ================= GITHUB TROPHY CASE ================= -->
+
+## 🏆 GitHub Trophy Case
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)](https://github.com/YOUR_USERNAME)
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhil-shetty14&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B084F9,100:00F0FF&height=3&width=100%" width="100%"/>
+<br>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B084F9,100:00F0FF&height=3&width=100%" width="100%" alt="divider" />
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> GitHub Analytics
+<br>
+
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B084F9&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B084F9&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-shetty14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B084F9&text_color=c9d1d9&count_private=true" width="49%" alt="Nikhil GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&langs_count=10" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=B084F9&point=ffffff" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Nikhil-shetty14&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=B084F9&currStreakLabel=00F0FF" width="49%" alt="Nikhil GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-shetty14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&langs_count=10" width="49%" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-shetty14&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=B084F9&point=ffffff" width="49%" alt="GitHub Activity Graph" />
 
 </div>
 
-<br/>
+<br>
 
-### 🐍 Contribution Snake
+<!-- ================= CONTRIBUTION SNAKE ================= -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
-<!--END_SECTION:snake-->
-
-<sub>⚙️ Generated automatically via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — runs daily, add the workflow below to activate it on your own profile.</sub>
+<img src="https://raw.githubusercontent.com/Nikhil-shetty14/Nikhil-shetty14/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B084F9,100:00F0FF&height=3&width=100%" width="100%" alt="divider" />
+
+<br>
 
 <details>
 <summary>📄 <b>Snake animation GitHub Action (click to expand)</b></summary>
