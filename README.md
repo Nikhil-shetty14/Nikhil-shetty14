@@ -338,19 +338,9 @@ A cyberpunk-themed personal portfolio website showcasing projects, skills, and a
 
 <br/>
 
-## <img src="https://media.giphy.com/media/hWWXKuiO7QpqI/giphy.gif" width="35"/> Coding Activity
 
-## 💻 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-shetty14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=B084F9&text_color=C9D1D9" width="60%" alt="GitHub Coding Activity"/>
-
-</div>
 
 <br>
-
-💡 **Coding activity is based on my GitHub contributions and repositories.**
 
 > 💡 To enable this, install the [WakaTime extension](https://wakatime.com/) in your editor and connect your WakaTime API key — it will automatically track and display your real coding hours here.
 
