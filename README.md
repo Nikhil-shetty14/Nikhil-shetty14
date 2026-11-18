@@ -40,9 +40,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F0FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=B084F9)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Total%20Stars&style=for-the-badge&color=00F0FF)
+![Profile Views](https://komarev.com/ghpvc/?user=Nikhil-shetty14&label=Profile%20Views&color=00F0FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/?user=Nikhil-shetty14?label=Followers&style=for-the-badge&color=B084F9)
+![Stars](https://img.shields.io/github/stars/?user=Nikhil-shetty14?label=Total%20Stars&style=for-the-badge&color=00F0FF)
 
 </div>
 
